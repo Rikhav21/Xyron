@@ -1,6 +1,6 @@
 made by @Rmardia \
 Repositiory link: https://github.com/Rikhav21/Xyron \
-Total hours so far: 8 
+Total hours so far: 10
 - [x] I have a 3d printer right now.
 # Day one
 ## Research
@@ -16,3 +16,8 @@ I started with onshape, and got a liitle of the gantry done.
 Today I learnt a little bit more about onShape and got continued with the assembaly. Most of my time just was spent figuring out how to use the assembaly.
 ## Time
 3 hours and 30 minutes
+# Day three
+## Design
+Today I continues working on the gantry and now have to work on the tool head. The X and Y linear rods are finished with the modeling.
+## Time
+2 hours.
